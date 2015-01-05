@@ -1,7 +1,7 @@
 Titanic-Kaggle-
 ===============
 
-This repository contains the code written for the Titanic Kaggle competition, in which we are asked to predict survival rates on Titanic using a host of features identifying each passenger (sex, boarding class, socioeconomic background, age, etc). 
+This repository contains the code written for the Titanic Kaggle competition, in which we are asked to predict survival rates on Titanic using a host of features identifying each passenger (sex, boarding class, socioeconomic background, age, etc). My best submission score was 0.77512 (78% correct prediction). 
 
 The files are described below. 
 
